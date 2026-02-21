@@ -77,10 +77,10 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 |5|Swith socket<br>スイッチソケット|55|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |6|RP2040-Zero|2|MCU Board|[Talp keyboard](https://shop.talpkeyboard.com/products/rp2040-zero-usb-c-compatible)[Waveshare](https://www.waveshare.com/rp2040-zero.htm)|400円ぐらい|
 |8|pmw3610|1|trackball senser|[Talp Keyboard](https://talpkeyboard.net)|800円程度|
-|Rotaly encoder|EC12|[遊舎工房](https://yushakobo.jp)|330円程度|
-|9|Screw<br>ネジ|11|なべこねじM2 6mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円
-|10|Nut<br>ナット|11|M2ネジに付属していることが多い|DIY shop||
-|9|Keycap<br>キーキャップ|55|ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|9|Rotaly encoder|EC12|[遊舎工房](https://yushakobo.jp)|330円程度|
+|10|Screw<br>ネジ|11|なべこねじM2 6mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円
+|11|Nut<br>ナット|11|M2ネジに付属していることが多い|DIY shop||
+|12|Keycap<br>キーキャップ|55|ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 
 <br>
 
