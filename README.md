@@ -88,8 +88,8 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 |11|Nut<br>ナット|11|M2ネジに付属していることが多い|DIY shop||
 |12|Keycap<br>キーキャップ|55|ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 |13|Trackball|1|34mm|||
-|14|Bearing|3||外径5mm、内径2mm、幅2.5mm|||
-|15|Shaft|3|径2mm、｜長さ6mm||| 
+|14|Bearing|3|外径5mm、内径2mm、幅2.5mm|[amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)||
+|15|Shaft|3|径2mm、｜長さ6mm|[amazon](https://www.amazon.co.jp/dp/B0FNMC8BSD?ref=ppx_yo2ov_dt_b_fed_asin_title)|| 
 <br>
 
 
