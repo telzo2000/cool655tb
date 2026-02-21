@@ -1,7 +1,7 @@
 # cool655tb
 
 
-![](img/img00005.jpg)
+![](img/img00001.jpg)
 
 ## What is cool655tb?
 
@@ -15,10 +15,10 @@ cool655tb use seeed RP2040-Zero,run qmk_firmware.
 
 ## firmware
 
-cool655tb change keymap by [vial](https://vial.rocks/).
+cool655tb change keymap by [vial](https://vial.rocks/)
 
 
-<br>
+<br>      
 Note
 <br>
 
@@ -58,6 +58,9 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 
 6 Connect to your PC with a USB cable and install the firmware by dragging and dropping.
 
+
+
+![](img/img00002.jpg)
 
 <br>
 
