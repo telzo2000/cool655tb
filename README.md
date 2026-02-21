@@ -17,8 +17,14 @@ cool655tb use seeed RP2040-Zero,run qmk_firmware.
 
 cool655tb change keymap by [vial](https://vial.rocks/).
 
+
+<br>
+Note
 <br>
 
+https://sizu.me/m_ki/posts/vef80k39vo23
+
+ご自身の環境でビルドする場合、参考にしてください。
 
 <br>
 
