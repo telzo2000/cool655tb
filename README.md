@@ -17,6 +17,7 @@ cool655tb use seeed RP2040-Zero,run qmk_firmware.
 
 cool655tb change keymap by [vial](https://vial.rocks/)
 
+https://github.com/telzo2000/cool655tb/tree/main/firmware
 
 <br>      
 Note
@@ -50,13 +51,17 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 [RP2040-Zeroのハンダ付け動画](https://youtu.be/FV4INvCWlU0)
 <br>
 
-3 Insert the switch socket into the top plate and then the PCB.
+3 Pass the shaft through the bearing and attach it to the trackball case.
 
-4 Insert the bottom case.
+4 Secure the trackball case to the right top case using screws and nuts.
 
-5 Insert the screw from above and secure it with the nut on the bottom case side.
+5 Insert the switch socket into the top plate and then the PCB.
 
-6 Connect to your PC with a USB cable and install the firmware by dragging and dropping.
+6 Insert the bottom case.
+
+7 Insert the screw from above and secure it with the nut on the bottom case side.
+
+8 Connect to your PC with a USB cable and install the firmware by dragging and dropping.
 
 
 
@@ -83,6 +88,8 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 |11|Nut<br>ナット|11|M2ネジに付属していることが多い|DIY shop||
 |12|Keycap<br>キーキャップ|55|ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 |13|Trackball|1|34mm|||
+|14|Bearing|3||外径5mm、内径2mm、幅2.5mm|||
+|15|Shaft|3|径2mm、｜長さ6mm||| 
 <br>
 
 
