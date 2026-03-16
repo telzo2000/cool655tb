@@ -91,6 +91,8 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 |14|Bearing|3|外径5mm、内径2mm、幅2.5mm|[amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)||
 |15|Shaft|3|径2mm、｜長さ6mm|[amazon](https://www.amazon.co.jp/dp/B0FNMC8BSD?ref=ppx_yo2ov_dt_b_fed_asin_title)|| 
 |16|TRRS Jack|2||[遊舎工房](https://shop.yushakobo.jp/products/a0800tr-01-1?_pos=1&_sid=9ea2ad868&_ss=r)<br>[Talp keyboard](https://shop.talpkeyboard.com/products/35mm-4-trrs-vonnector-2pcs)|１個55円程度|
+|17|34mm球|1|34mm|[Amazon](https://www.amazon.co.jp/PERIPRO-303-PERIMICE-517-720またはロジクール-エレコムのトラックボールマウスと互換性有り-【正規保証品】（レッド）/dp/B071NX7Y2J/ref=sr_1_1_sspa?crid=G7RYH7YYHNRP&dib=eyJ2IjoiMSJ9.jgqTjHy0RZ1izQVKDuChyAqAOj-PnW-oVjwV6jFNHE0w_pdnyK_qS7Sr-OdnjxKjS0utf-U2A91lxN9IaaBo2wLZmUa5ntpC2JlnlmonCgUBlKSLRyNiGOOZ_n2ahJAmRoAV5cXGW3pjX66ze7mHQoMuzV3f3SY0Sh_g8wbF8IDh8qkSoD3OgI-Mn-nW-dM9_WjvOdRGQLOf7f9h2wblOc7zdKYJln4iJSGJxoVQdkL8b0H1gIR3DFffMoXKIUfpwluk-YXzVp1MbKyOfWolVEfMrELG2cHYzalI50ulHKU.YOUM2sygcJJXeuQO_LqCqQmzaxu7KyOsB3r5KPIlm_g&dib_tag=se&keywords=トラックボール%2B34mm&qid=1773040410&sprefix=34mm%2Caps%2C255&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.d8e7ee72-073f-4b97-8ec0-59c18d6dfebe&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)|1500円位|
+
 
 <br>
 
