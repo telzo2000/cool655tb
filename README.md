@@ -96,7 +96,7 @@ https://github.com/telzo2000/cool655tb/blob/main/buildguide_for_cool655tb.md
 
 <br>
 
-In addition, USB cable, etc. are required.
+In addition, Knob,TRRS cable,USB cable, etc. are required.
 <br>
 この他に、ローターエンコーダのノブ、TRRSケーブル、USBケーブル等が必要です。
 <br>
